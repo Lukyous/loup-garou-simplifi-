@@ -1,11 +1,11 @@
 import random
 
 joueurs = {"Kevin":"Villageois",
-           "Jonah": "Villageois",
+           "Alice": "Villageois",
            "Thomas": "Villageois",
-           "Kylian": "Villageois",
-           "Lucas": "Villageois",
-           "Melvin": "Villageois",
+           "Jean": "Villageois",
+           "Meruem": "Villageois",
+           "Lucie": "Villageois",
            "Paul": "Villageois",
            "Nathan": "Villageois"}
 
